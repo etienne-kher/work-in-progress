@@ -1,13 +1,31 @@
 body{
 	background-color: red;
 }
-main{}
-article{}
-h1{}
-p{}
+header{text-align: center;
+background-color:#F2DF63 ;
+width: 105%;
+	margin-inline: -53px;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+main{display: inline-flex;}
+article{width: 100%;
+		border-style: solid;
+}
+h1{text-decoration: underline;
+text-align: center;}
+button{margin-left: 45%;}
+p{margin-inline:12px;}
 
 #casque{
 		display: none;
 }
-#kid{}
-footer{}
+#kid{margin-right: 5%;}
+footer{background-color:#F2DF63 ;
+		width: 105%;
+		margin-inline: -53px;
+		text-align: center;
+		margin-top: 10px;
+		height: 25px;
+		margin-bottom: -40px;
+	}

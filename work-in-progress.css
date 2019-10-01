@@ -29,6 +29,10 @@ button{margin-left: 35%;
 	color:#4AC571;
 	border-radius: 15px;
 }
+button:hover{
+	font-size: 60px;
+	margin-left: 30%;
+}
 p{
 	margin-inline:12px;
 	text-align: center;

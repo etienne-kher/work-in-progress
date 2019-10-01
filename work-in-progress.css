@@ -1,5 +1,5 @@
 body{
-	background-color: red;
+	background-color: #68B396;
 }
 header{text-align: center;
 background-color:#F2DF63 ;
@@ -8,6 +8,7 @@ width: 105%;
 	margin-top: -10px;
 	margin-bottom: 10px;
 	font-family: 'Viga', sans-serif;
+	font-size: 40px;
 }
 main{display: inline-flex;}
 article{width: 100%;
@@ -15,26 +16,32 @@ article{width: 100%;
 		border-radius: 10px;
 		background-color: black;
 		font-family: 'Fugaz One', cursive;
-		color:green;
+		color:#F0C5FD;
+		box-shadow: 3px 6px 5px black;
 }
 h1{text-decoration: underline;
 text-align: center;
-font-size:20px;}
-button{margin-left: 45%;
-	font-size: 30px;
+font-size:30px;}
+button{margin-left: 35%;
+	font-size: 40px;
 	font-family: 'Viga', sans-serif;
+	background-color: #DEFCF1;
+	color:#4AC571;
 }
 p{
 	margin-inline:12px;
 	text-align: center;
-	font-size:20px;
+	font-size:30px;
 }
 
 #casque{
 		display: none;
 }
-#kid{margin-right: 5%;
-border-radius:10px; }
+#kid{
+	margin-right: 5%;
+border-radius:10px;
+box-shadow: 6px 6px 5px black;
+}
 footer{background-color:#F2DF63 ;
 		width: 105%;
 		margin-inline: -53px;
@@ -44,3 +51,8 @@ footer{background-color:#F2DF63 ;
 		margin-bottom: -40px;
 		font-family: 'Viga', sans-serif;
 	}
+	#68B396
+	#F0C5FD
+	#DEFCF1
+	#C9BC9D
+	#B0A792
